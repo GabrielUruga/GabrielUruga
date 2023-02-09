@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Uruga da Silva 
+### Hey! I'm Gabriel Uruga da Silva 
 
 ### Social Medias:
 
