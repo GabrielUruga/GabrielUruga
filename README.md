@@ -14,4 +14,6 @@
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=yellow)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
+### Stats:
+
 ![UrugaGitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUruga&show_icons=true&theme=tokyonight)
