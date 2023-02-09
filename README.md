@@ -18,3 +18,5 @@
 
 
 ![UrugaGitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUruga&show_icons=true&theme=tokyonight)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
