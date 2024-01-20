@@ -32,11 +32,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gabrieluruga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabrieluruga/" height="30" width="40" /></a>
 </p>
 
-<!-- GithubStats -->
-<h3 align="left">Stats:</h3>
-
-![UrugaGitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUruga&show_icons=true&theme=tokyonight)
-
 ## 🔥 Hard Skills
 
   <div style="flex-basis: 48%;">
@@ -53,9 +48,14 @@
   </div>
   
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>Libraries:</h3>
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </div>
+
+  <!-- GithubStats -->
+<h3 align="left">Stats:</h3>
+
+![UrugaGitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUruga&show_icons=true&theme=tokyonight)
 
