@@ -23,7 +23,9 @@
   
   - ⚡ Desde o Ensino Fundamental tenho mais afinidade com a área de Exatas, principalmente Matemática Discreta e Estatística.
   
-  - 🤝 No final do Ensino Médio conheci o ramo da Tecnologia, mas foi em meados do 3° semestre da minha graduação que escolhi a função que vou exercer: **Cientista de Dados**.
+  - 🤝 No final do Ensino Médio conheci o ramo da Tecnologia e decidi inicar uma graduação na área!
+  
+  - 📄  Apenas em meados do 3° semestre da minha graduação  que escolhi a função que vou exercer: **Cientista de Dados**.
 </details>
 
 
@@ -45,6 +47,7 @@
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  
   </div>
   
 <div style="flex-basis: 48%;">
