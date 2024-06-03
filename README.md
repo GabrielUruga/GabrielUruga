@@ -2,14 +2,14 @@
           
 <h1 align="center">Olá👋</h1>
 <h2 align="center">Sou o Gabriel Uruga da Silva!</h2>
-<h3 align="center"> Um estudante em busca de uma vaga na área de Dados</h3>
+<h3 align="center"> Aspirante em Ciência de Dados</h3>
 
 
 <p>
 
-- 🔭 Atuo como **Estagiário de TI** na Prefeitura de Franco da Rocha
+- 🔭 Atuo como **Estagiário em Desenvolvimento de Sistemas** na Prefeitura de Franco da Rocha
 
-- 🌱 Estou aprendendo e estudando sobre **Ciência & Análise de Dados**
+- 🌱 Estou estudando e praticando projetos de **Ciência & Análise de Dados**
 
 </p>
 
