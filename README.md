@@ -2,8 +2,6 @@
           
 <h1 align="center">Olá👋</h1>
 <h2 align="center">Sou o Gabriel Uruga da Silva!</h2>
-<h3 align="center"> Aspirante em Ciência de Dados</h3>
-
 
 <p>
 
