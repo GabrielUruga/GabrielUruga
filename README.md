@@ -5,7 +5,7 @@
 
 <p>
 
-- 🔭 Atuo como **Estagiário em Desenvolvimento de Sistemas** na Prefeitura de Franco da Rocha
+- 🔭 Atuo como **Estagiário em Análise de Dados** na Prefeitura de Franco da Rocha
 
 - 🌱 Estou estudando e praticando projetos de **Ciência & Análise de Dados**, este aqui é o meu <a href="https://sites.google.com/view/portfolio-gabriel-uruga/home"> Portfólio </a>
 
