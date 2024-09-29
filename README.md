@@ -19,7 +19,7 @@
 
   - 📝 Estou no último ano da graduação em **Gestão da Tecnologia da Informação** pela FATEC.
   
-  - ⚡ Desde o Ensino Fundamental tenho mais afinidade com a área de Exatas, principalmente Matemática Discreta e Estatística.
+  - ⚡ Desde o Ensino Fundamental tenho mais afinidade com a área de Exatas, principalmente Matemática e Estatística.
   
   - 🤝 No final do Ensino Médio conheci o ramo da Tecnologia e decidi inicar uma graduação na área!
   
