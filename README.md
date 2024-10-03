@@ -63,6 +63,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 </div>
+
+  <div style="flex-basis: 48%;">
+    <h3>Cloud Computing:</h3>
+          
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  
+  </div>
   
 <div style="flex-basis: 48%;">
     <h3>IDEs:</h3>
@@ -73,12 +80,6 @@
 
   </div>
 
-  <div style="flex-basis: 48%;">
-    <h3>Cloud Computing:</h3>
-          
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  
-  </div>
 
   <div style="flex-basis: 48%;">
     <h3>Source Code Management:</h3>
