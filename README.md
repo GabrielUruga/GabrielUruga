@@ -9,6 +9,8 @@
 
 - 🌱 Estou estudando e praticando projetos de **Ciência & Análise de Dados**, este aqui é o meu <a href="https://sites.google.com/view/portfolio-gabriel-uruga/home" target="_blank"> Portfólio </a>
 
+[go](https://sites.google.com/view/portfolio-gabriel-uruga/home){:target="_blank"}
+
 </p>
 
 
