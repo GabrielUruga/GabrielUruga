@@ -11,9 +11,6 @@
 
 </p>
 
-[go](https://sites.google.com/view/portfolio-gabriel-uruga/home){:target="_blank"}
-
-
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
