@@ -5,7 +5,7 @@
 
 <p>
 
-- 🔭 Atuo como **Estagiário em Análise de Dados** na Prefeitura de Franco da Rocha
+- 🔭 Atuo como **Analytics Engineer** no Grupo Boticário
 
 - 🌱 Estou estudando e praticando projetos de **Ciência & Análise de Dados**, este aqui é o meu <a href="https://sites.google.com/view/portfolio-gabriel-uruga/home" target="_blank"> Portfólio </a>
 
